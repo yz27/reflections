@@ -1,0 +1,42 @@
+查看文件的两个版本之间的差异如何帮助你了解引入的错误？
+
+    快速定位两个文件不同的地方，从而查找出因为改变原文件而引入的错误
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+从长远来看，能轻松访问文件的整个历史记录将如何提高编程者的效率？
+
+    方便比较不同之处及文件的发展，从而获得更多的自我反馈
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+你认为，手动选择何时创建提交（像在 Git 中做的那样）与自动保存版本（如 Google Docs
+ 所做的那样）各有何优缺点？
+
+    优点：更有逻辑性，更灵活，
+	缺点：容易忘了提交
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+何你认为一些版本控制系统（例如 Git）允许在一次提交中保存多个文件，而其他系统
+（例如 Google Docs）单独对待每个文件？
+    Fill in your answer here
+	不知道
+	
+How can you use the commands git log and git diff to view the history of files?
+如何使用命令 git log 和 git diff 来查看文件的历史记录？
+    Fill in your answer here
+	git log -------------q退出
+	git diff 上一个文件ID 这次提交文件ID
+
+How might using version control make you more confident to make changes that
+could break something?
+使用版本控制，如何让你更有信心进行有可能会造成破坏的更改？
+    Fill in your answer here
+	很容易回到产生bug之前的版本
+
+Now that you have your workspace set up, what do you want to try using Git for?
+现在你已设置了工作空间，你想尝试使用 Git 来做些什么？
+    Fill in your answer here
+	备份文件历史记录，看看对自己的编程有何影响
